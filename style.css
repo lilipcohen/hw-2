@@ -2,6 +2,36 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+.navbar-brand {
+    background-color:rgb(99, 177, 241);   
+    font-size:xx-large;
+}
+
 #nav-right {
-    padding-left: 740px ;
+    padding-left: 720px ;
+}
+
+.main-color {
+    background-color: purple; 
+    width: 100%;
+    height: 100%;
+    position:absolute;
+}
+
+.content {
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    position: relative;
+}
+
+img {
+    
 }
