@@ -32,6 +32,12 @@ body {
     position: relative;
 }
 
-img {
-    
+h1 {
+    color:rgb(99, 177, 241);
+}
+
+video {
+    width: 150px;
+    height: 300px;
+    top: 0;
 }
