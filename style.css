@@ -59,3 +59,24 @@ img {
     margin-bottom: 20px;
     margin-left: 5px;
 }
+
+.contact-content {
+    background-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(142, 241, 203);
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    position: absolute;
+}
+
+h2 {
+    font-size: x-large;
+}
