@@ -1,0 +1,90 @@
+body {
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-brand {
+    background-color:rgb(142, 241, 203);   
+    font-size: xx-large;
+}
+
+.index-content {
+    background-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(142, 241, 203);
+    width: 500px;
+    height: 550px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    position: absolute;
+}
+
+h1 {
+    color:rgb(142, 241, 203);
+}
+
+img {
+    margin-right: 10px;
+}
+
+.portfolio-content {
+    background-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(142, 241, 203);
+    width: 750px;
+    height: 950px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    position: absolute;
+}
+
+div img {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.contact-content {
+    background-color: white;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(142, 241, 203);
+    width: 500px;
+    height: 500px;
+    float: left;
+    margin-top: 60px;
+    margin-left: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    position: absolute;
+}
+
+h2 {
+    font-size: x-large;
+}
+
+@media (min-width: 576px) {
+    
+}
+
+@media (min-width: 768px) { 
+
+}
+
+@media (min-width: 992px) {
+
+}
