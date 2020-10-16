@@ -5,18 +5,17 @@ body {
 .navbar-brand {
     background-color:rgb(252, 197, 240);   
     font-size: xx-large;
+    padding: 0.5rem;
+    border-radius: 20px
 }
 
 .index-content {
     background-color: white;
     border-width: 10px;
+    border-radius: 20px;
     border-style: solid;
     border-color: rgb(255, 218, 186);
-    width: 100%;
-    height: 550px;
-    margin:  60px 10px 40px 10px;
     padding: 20px;
-    position: absolute;
 }
 
 h1 {
@@ -28,42 +27,19 @@ h1 {
     border-width: 10px;
     border-style: solid;
     border-color: rgb(255, 218, 186);
-    width: 750px;
-    height: 950px;
-    margin:  60px 10px 40px 10px;
     padding: 20px;
-    position: absolute;
 }
 
 div img {
-    width: 250px;
-    height: 250px;
+    width: 100%;
 }
-
-.img-index {
-    margin: 0px 10px 0px 0px;
-}
-
-.img-port1 {
-    margin: 10px 0px 20px 40px;
-}
-
-.img-port2 {
-    margin: 10px 20px 20px 0px;
-}
-
 
 .contact-content {
     background-color: white;
     border-width: 10px;
     border-style: solid;
     border-color: rgb(255, 218, 186);
-    width: 500px;
-    height: 500px;
-    float: left;
-    margin:  60px 10px 40px 10px;
     padding: 20px;
-    position: absolute;
 }
 
 h2 {
@@ -71,6 +47,7 @@ h2 {
 }
 
 .container {
-    max-width: 500px;
-    margin: 0px 200px 0px 0px;
+    max-width: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
