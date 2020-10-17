@@ -33,6 +33,7 @@ h1 {
 
 div img {
     width: 100%;
+    margin-bottom: 10px;
 }
 
 .contact-content {
@@ -52,4 +53,17 @@ h2 {
     max-width: 700px;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.fixed-bottom {
+    position: fixed;
+    margin: auto;
+    height: 60px;
+    width: 100%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+    line-height: 60px;
+    background-color: #93a1f1;
 }
